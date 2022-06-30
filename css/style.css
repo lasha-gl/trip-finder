@@ -275,19 +275,24 @@ body {
 .footer-social {
     margin: 0 auto;
 }
-
-.fa-facebook-square {
+.fa-hashtag {
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+    margin-right: 3px;
+}
+.fa-facebook-f {
     margin-top: 25px;
     margin-right: 50px;
     color: white;
-    font-size: 50px;
+    font-size: 45px;
 }
 
-.fa-twitter-square {
+.fa-tiktok {
     margin-top: 25px;
     margin-right: 50px;
-    color: white;
-    font-size: 50px;
+    color:  white;
+    font-size: 45px;
 }
 
 .fa-instagram-square {
@@ -320,7 +325,7 @@ body {
   color: #ffcf31;
 }
 
-.fa-facebook-square:hover {
+.fa-facebook-f:hover {
 color: #3b5998;
 }
 
@@ -328,7 +333,7 @@ color: #3b5998;
   color: #FF0000;
 }
 
-.fa-twitter-square:hover {
+.fa-tiktok:hover {
 color: #1DA1F2;
 }
 
