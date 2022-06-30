@@ -454,3 +454,54 @@ color: #1DA1F2;
 }
 
 
+
+
+
+
+/* axali */
+
+/*section-box*/
+.section-box {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+}
+
+
+
+.img-box {
+    margin-top: 0;
+    width: 320px;
+    height: 200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+
+
+
+.box1 {
+    width: 320px;
+    height: 420px;
+    display: flex;
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    /* align-items: center; */
+    justify-content: space-around;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    font-family: "ArchyEDT-Bold", sans-serif;
+}
+
+
+/* hover typing */
+
+.box1:hover {
+    background-color: #dce0dd;
+}
